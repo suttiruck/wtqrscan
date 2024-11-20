@@ -1,0 +1,2 @@
+-keep class com.pichillilorenzo.flutter_inappwebview.** { *; }
+-dontwarn com.pichillilorenzo.flutter_inappwebview.**
