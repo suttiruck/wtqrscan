@@ -43,7 +43,7 @@ dependencies:
   #mobile_scanner: ^6.0.2
   #pretty_qr_code: ^3.3.0
   flutter_secure_storage: ^8.0.0
-  http: ^1.2.1
+  http: ^1.2.2
   shared_preferences: ^2.3.2 # ตรวจสอบเวอร์ชันล่าสุดที่ https://pub.dev
   #flutter_plugin_android_lifecycle: ^2.0.0-nullsafety
   flutter_barcode_scanner: ^2.0.0
